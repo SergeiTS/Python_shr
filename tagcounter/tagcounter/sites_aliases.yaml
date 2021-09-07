@@ -1,0 +1,14 @@
+---
+google.com: &G
+    google.com
+hub.docker.com: &D
+    hub.docker.com
+learn.chef.io: &C
+    learn.chef.io
+github.com: &H
+    github.com
+
+ggl: *G
+hdr: *D
+lcf: *C
+ghb: *H
